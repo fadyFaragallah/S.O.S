@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "622529747762",
+    "firebase_url": "https://sosfirebaseproject-6adc9.firebaseio.com",
+    "project_id": "sosfirebaseproject-6adc9",
+    "storage_bucket": "sosfirebaseproject-6adc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622529747762:android:d9cc1b59afc52443",
+        "android_client_info": {
+          "package_name": "com.example.gryffindor.sos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622529747762-imqkktl78hv9b1h9br9anuj46pt5bouc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gryffindor.sos",
+            "certificate_hash": "778935546fa62d6cfd40f12cfb1f69feb5a82b9b"
+          }
+        },
+        {
+          "client_id": "622529747762-pkv6hc1pttc5q2g7tqucsnhh9rls4k3i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gryffindor.sos",
+            "certificate_hash": "a224a5b7690c5cad9232398ffdcb756644a38fd8"
+          }
+        },
+        {
+          "client_id": "622529747762-f703k21bs8k48pj3h8sr02p713m8s5fv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gryffindor.sos",
+            "certificate_hash": "b460ac369956baa88e168a2a02900a1ff8341a94"
+          }
+        },
+        {
+          "client_id": "622529747762-h57aqqql8a694hirjmn5i1lovut3v3oh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6YSjK1Q_E84HveaxyDcELwrKE8viihmc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622529747762-h57aqqql8a694hirjmn5i1lovut3v3oh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

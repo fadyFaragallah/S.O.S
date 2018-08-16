@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="padding">16dp</dimen>
+    <dimen name="button_height"> 60dp</dimen>
+    <dimen name="button_widht"> 108dp</dimen>
+    <dimen name= "textbox_width"> 0dp </dimen>"
+    <dimen name= "textbox_height"> 24dp </dimen>"
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_add_contacts"
+            android:title="Emergency contacts"
+            android:icon="@drawable/ic_add_contact"
+            />
+
+        <item
+            android:id="@+id/nav_set_timer"
+            android:title="SOS Timer"
+            android:icon="@drawable/ic_timer"/>
+
+
+        <item
+            android:id="@+id/current_map"
+            android:title="Current SOS requests"
+            android:icon="@drawable/ic_bookmarks"/>
+
+        <item
+            android:id="@+id/nav_map"
+            android:title="SOS Requests history"
+            android:icon="@drawable/ic_bookmarks"/>
+
+        <item
+            android:id="@+id/logout_drawer_option"
+            android:title="Log out"
+            android:icon="@drawable/ic_highlight_off_black_24dp"/>
+    </group>
+</menu>
